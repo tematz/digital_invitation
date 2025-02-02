@@ -1,7 +1,3 @@
-Below is the translated README for the event management project with digital invitations:
-
----
-
 # Digital Event Management and Invitations System
 
 ## Description
